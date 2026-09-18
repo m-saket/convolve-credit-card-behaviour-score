@@ -2,8 +2,6 @@
 
 **Developing a Risk Management Framework for Credit Card Defaults**
 
-**Project by:** Saket Mehla | Sahaj Yadav
-
 ---
 
 ## Overview
@@ -66,9 +64,6 @@ convolve-credit-card-behaviour-score/
 └── data/
     ├── Dev_data_to_be_shared.csv
     └── validation_data_to_be_shared.csv
-```
-
-> **Dataset note:** the raw CSV files are large. If they exceed GitHub's normal per-file limit, use **Git LFS** or host the raw data externally and keep only a data dictionary/sample in the repository.
 
 ---
 
