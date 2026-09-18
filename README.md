@@ -1,4 +1,4 @@
-# Credit Card Behavioural Risk Scoring & Default Prediction
+# Credit Card Behavioural Risk Scoring & Default Prediction for IDFC Bank
 
 **Developing a Risk Management Framework for Credit Card Defaults**
 
