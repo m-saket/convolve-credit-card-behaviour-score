@@ -53,13 +53,13 @@ convolve-credit-card-behaviour-score/
 ├── PROJECT_FLOW.md
 │
 ├── notebooks/
-│   └── Convolve_Credit_Risk_FINAL_GitHub_RUS_SW.ipynb
+│   └── Convolve_3_0_final_nb.ipynb
 │
 ├── report/
-│   └── Credit_Card_Behaviour_Score_Final_Report_Updated.pdf
+│   └── Convolve_3.0_report.pdf
 │
 ├── output/
-│   └── Final_output_Updated.csv
+│   └── Final_output.csv
 │
 └── data/
     ├── Dev_data_to_be_shared.csv
@@ -592,7 +592,7 @@ The notebook also supports the Google Drive paths used during development.
 Open:
 
 ```text
-notebooks/Convolve_Credit_Risk_FINAL_GitHub_RUS_SW.ipynb
+notebooks/Convolve_3_0_final_nb.ipynb
 ```
 
 and execute the cells in order.
@@ -619,7 +619,7 @@ and execute the cells in order.
 For equations, EDA figures, experiment tables, imbalance analysis, calibration results, threshold policies and full methodology, see:
 
 ```text
-report/Credit_Card_Behaviour_Score_Final_Report_Updated.pdf
+report/Convolve_3.0_report.pdf
 ```
 
 ---
