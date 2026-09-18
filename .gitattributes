@@ -1,2 +1,4 @@
 Dev_data_to_be_shared.csv filter=lfs diff=lfs merge=lfs -text
 validation_data_to_be_shared.csv filter=lfs diff=lfs merge=lfs -text
+data/Dev_data_to_be_shared.csv filter=lfs diff=lfs merge=lfs -text
+data/validation_data_to_be_shared.csv filter=lfs diff=lfs merge=lfs -text
